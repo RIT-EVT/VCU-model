@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HarnessInformation>
+  <Harness>
+    <P Name="Name">VCU_Harness</P>
+    <P Name="Description"/>
+    <P Name="CreatedBy">mjmag</P>
+    <P Name="CreatedOn">Mon Jan 06 16:19:25 2025</P>
+    <P Name="ModifiedBy">mjmag</P>
+    <P Name="LastSaved">Mon Jan 06 16:19:28 2025</P>
+    <P Name="Owner">673</P>
+    <P Name="OwnerType">SS_HARNESS</P>
+    <P Name="OwnerPath">REV3_Controls/Control_Step/Vehicle_Control_Unit</P>
+    <P Name="Directory"/>
+    <P Name="FileName">VCU_Harness.slx</P>
+    <P Name="SavedVersion">23.2</P>
+    <P Name="HarnessUUID">1f5c1a09-968f-4025-8c70-e864a2dbcede</P>
+    <P Name="HarnessConnectionsMap">0,1,2|0|0,0,0,0||</P>
+    <P Name="VerificationMode">0</P>
+    <P Name="HarnessOwnerCheckSum">0,0,0,0</P>
+    <P Name="RebuildOnOpen">false</P>
+    <P Name="RebuildModelData">false</P>
+    <P Name="Graphical">false</P>
+    <P Name="DriveFcnCallWithTS">true</P>
+    <P Name="ScheduleInitTermReset">false</P>
+    <P Name="AutoShapeInputs">false</P>
+    <P Name="SLDVCompatible">no</P>
+    <P Name="SynchronizationMode">0</P>
+    <P Name="IsImported">false</P>
+    <P Name="PostRebuildCB"/>
+    <P Name="IsCodeContext">false</P>
+    <P Name="SchedulerBlock">1</P>
+    <P Name="SourceTypeString">Test Sequence</P>
+    <P Name="SinkTypeString">Test Assessment</P>
+    <P Name="CustomSourcePath"/>
+    <P Name="CustomSinkPath"/>
+    <P Name="BlockSIDs">6|25|0|0|0|0|0</P>
+    <P Name="OpenGraphs"/>
+    <P Name="ExistingBuildFolder"/>
+    <P Name="FunctionInterfaceName"/>
+  </Harness>
+  <ModelMetadata>
+    <P Name="ModelUUID">dd4972eb-779c-40cb-96f4-ae8340278130</P>
+    <P Name="OwnerBDName">REV3</P>
+  </ModelMetadata>
+</HarnessInformation>
