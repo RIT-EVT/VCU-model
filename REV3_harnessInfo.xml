@@ -6,7 +6,7 @@
     <P Name="CreatedBy">mjmag</P>
     <P Name="CreatedOn">Mon Jan 06 16:19:25 2025</P>
     <P Name="ModifiedBy">mjmag</P>
-    <P Name="LastSaved">Mon Jan 06 16:34:14 2025</P>
+    <P Name="LastSaved">Mon Jan 13 14:32:53 2025</P>
     <P Name="Owner">673</P>
     <P Name="OwnerType">SS_HARNESS</P>
     <P Name="OwnerPath">REV3_Controls/Control_Step/Vehicle_Control_Unit</P>
@@ -34,7 +34,7 @@
     <P Name="CustomSourcePath"/>
     <P Name="CustomSinkPath"/>
     <P Name="BlockSIDs">6|25|0|0|0|0|0</P>
-    <P Name="OpenGraphs"/>
+    <P Name="OpenGraphs">||VCU_Harness</P>
     <P Name="ExistingBuildFolder"/>
     <P Name="FunctionInterfaceName"/>
   </Harness>
