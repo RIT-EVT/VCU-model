@@ -1,6 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <HarnessInformation>
   <Harness>
+    <P Name="Name">LVSS_Harness</P>
+    <P Name="Description"/>
+    <P Name="CreatedBy">matat</P>
+    <P Name="CreatedOn">Sat Feb 22 10:38:15 2025</P>
+    <P Name="ModifiedBy">matat</P>
+    <P Name="LastSaved">Sat Feb 22 10:38:16 2025</P>
+    <P Name="Owner">66</P>
+    <P Name="OwnerType">SS_HARNESS</P>
+    <P Name="OwnerPath">REV3_Controls/Control_Step/Low_Voltage_SubSystem</P>
+    <P Name="Directory"/>
+    <P Name="FileName">LVSS_Harness.slx</P>
+    <P Name="SavedVersion">23.2</P>
+    <P Name="HarnessUUID">93ce49df-562f-4a23-afc6-fe26d54cf856</P>
+    <P Name="HarnessConnectionsMap">0|0|0,0,0,0||</P>
+    <P Name="VerificationMode">0</P>
+    <P Name="HarnessOwnerCheckSum">0,0,0,0</P>
+    <P Name="RebuildOnOpen">false</P>
+    <P Name="RebuildModelData">false</P>
+    <P Name="Graphical">false</P>
+    <P Name="DriveFcnCallWithTS">true</P>
+    <P Name="ScheduleInitTermReset">false</P>
+    <P Name="AutoShapeInputs">false</P>
+    <P Name="SLDVCompatible">no</P>
+    <P Name="SynchronizationMode">0</P>
+    <P Name="IsImported">false</P>
+    <P Name="PostRebuildCB"/>
+    <P Name="IsCodeContext">false</P>
+    <P Name="SchedulerBlock">1</P>
+    <P Name="SourceTypeString">Inport</P>
+    <P Name="SinkTypeString">Outport</P>
+    <P Name="CustomSourcePath"/>
+    <P Name="CustomSinkPath"/>
+    <P Name="BlockSIDs">4|44|0|0|0|0|0</P>
+    <P Name="OpenGraphs"/>
+    <P Name="ExistingBuildFolder"/>
+    <P Name="FunctionInterfaceName"/>
+  </Harness>
+  <Harness>
     <P Name="Name">VCU_Harness</P>
     <P Name="Description"/>
     <P Name="CreatedBy">mjmag</P>
@@ -34,7 +72,7 @@
     <P Name="CustomSourcePath"/>
     <P Name="CustomSinkPath"/>
     <P Name="BlockSIDs">6|16|0|0|0|0|0</P>
-    <P Name="OpenGraphs">||VCU_Harness</P>
+    <P Name="OpenGraphs">||||VCU_Harness</P>
     <P Name="ExistingBuildFolder"/>
     <P Name="FunctionInterfaceName"/>
   </Harness>
