@@ -14,7 +14,7 @@
     <P Name="FileName">VCU_Harness.slx</P>
     <P Name="SavedVersion">23.2</P>
     <P Name="HarnessUUID">e7c50db9-e8b2-442a-85eb-a5a4baf35228</P>
-    <P Name="HarnessConnectionsMap">0,1,2|0|0,0,0,0||</P>
+    <P Name="HarnessConnectionsMap">0,-1,1|0|0,0,0,0||</P>
     <P Name="VerificationMode">0</P>
     <P Name="HarnessOwnerCheckSum">0,0,0,0</P>
     <P Name="RebuildOnOpen">false</P>
