@@ -73,7 +73,7 @@
     <P Name="CustomSourcePath"/>
     <P Name="CustomSinkPath"/>
     <P Name="BlockSIDs">6|22|0|0|0|0|0</P>
-    <P Name="OpenGraphs">||VCU_Harness</P>
+    <P Name="OpenGraphs">||||VCU_Harness</P>
     <P Name="ExistingBuildFolder"/>
     <P Name="FunctionInterfaceName"/>
     <P Name="SysArchSUTModel"/>
