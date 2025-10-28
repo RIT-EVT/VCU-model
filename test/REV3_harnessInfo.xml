@@ -37,6 +37,7 @@
     <P Name="OpenGraphs">||||VCU_Harness</P>
     <P Name="ExistingBuildFolder"/>
     <P Name="FunctionInterfaceName"/>
+    <P Name="SysArchSUTModel"/>
   </Harness>
   <ModelMetadata>
     <P Name="ModelUUID">dd4972eb-779c-40cb-96f4-ae8340278130</P>
